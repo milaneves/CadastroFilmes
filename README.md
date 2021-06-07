@@ -1,5 +1,5 @@
 # CadastroFilmes
 
 Instalação:
-EntityFrameworkCore.Sql Server
-Microsoft.EntityFrameworkCore.Tools
+- EntityFrameworkCore.Sql Server
+- Microsoft.EntityFrameworkCore.Tools
