@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-06-06T12:16:05.153138Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2021-06-06T12:11:17.997Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CadastroFilmes20210606090126ResourceGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "3e289ba4-888d-4a3a-ae8b-b7c52398b443"
+    }
+  }
+}

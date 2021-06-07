@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/CadastroFilmesapi/apis/CadastroFilmes",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "resourceId": null,
+      "type": "mssql.onprem",
+      "connectionId": "DefaultSqlWorkflowInstanceStoreConnectionString.",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
